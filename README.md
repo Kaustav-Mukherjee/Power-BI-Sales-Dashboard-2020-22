@@ -49,14 +49,17 @@ This project presents a comprehensive **Sales Performance Dashboard** built usin
 
 ## 📸 Dashboard Preview
 
-![Executive Overview](Screenshots/executive_overview.png)
-*Figure 1: Executive Sales Overview*
+![Dashboard Presentation](Screenshots/DASHBOARD%20PICTURES.png)
+*Figure 1: Complete Dashboard Overview*
 
-![Regional Analysis](Screenshots/regional_analysis.png)
-*Figure 2: Regional Performance & Segment Analysis*
+### 📹 Dashboard Video Demo
 
-![Product Performance](Screenshots/product_performance.png)
-*Figure 3: Product Category Breakdown & Slicers*
+<video src="https://github.com/Kaustav-Mukherjee/Power-BI-Sales-Dashboard-2020-22/raw/main/Screenshots/DASHBOARD%20RECORDING.mp4" controls="controls" width="100%">
+  Your browser does not support the video tag.
+</video>
+*Video 1: Interactive Dashboard Demonstration*
+
+> **Note:** If the video does not play inline, you can [download/view it here](Screenshots/DASHBOARD%20RECORDING.mp4).
 
 ---
 
